@@ -17,6 +17,14 @@
 .bold {
     font-weight: 500;
 }
+.iconlink {
+    border-radius: 10px;
+}
+.iconcontent {
+    background: white;
+    border-radius: 10px;
+    width: 40px;
+}
 
 /*********************************************************************************/
 /* Basic                                                                         */
